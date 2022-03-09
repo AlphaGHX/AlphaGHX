@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaghx&show_icons=true&count_private=true)
-<a href="https://osu.ppy.sh/users/11312999"><img src="https://osu-sig.vercel.app/card?user=Alpha_OSU&mode=mania&animation=true" width="550" /></a>
+
 <!--
 **AlphaGHX/AlphaGHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
