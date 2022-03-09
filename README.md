@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphaghx&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphaghx&layout=compact)](https://github.com/alphaghx/github-readme-stats)
 <!--
 **AlphaGHX/AlphaGHX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
